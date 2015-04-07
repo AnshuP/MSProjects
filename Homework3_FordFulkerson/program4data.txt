@@ -1,0 +1,12 @@
+6
+Anibel
+Belinda
+Clark
+Delphina
+Ernie
+Dozer
+4
+1 4
+1 5
+2 4
+3 6

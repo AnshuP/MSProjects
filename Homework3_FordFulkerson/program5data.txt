@@ -1,0 +1,24 @@
+10
+Alice
+Bob
+Carol
+Dave
+Eliza
+Adobe
+Amazon
+Facebook
+Google
+Yahoo
+12
+1 6
+1 7
+1 9
+2 6
+2 7
+3 6
+3 8
+3 9
+4 7
+4 10
+5 7
+5 10

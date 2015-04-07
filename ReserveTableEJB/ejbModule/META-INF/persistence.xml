@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<persistence>
+	<persistence-unit name="RestaurantManagement">
+		<description>This unit manages orders and customers.
+			It does not rely
+			on any vendor-specific features and can
+			therefore be deployed to any
+			persistence provider.
+		</description>
+		<jta-data-source>jdbc/css533proj_db</jta-data-source>
+		<jar-file>ReserveTableEJB.jar</jar-file>
+		<class>com.model.Restaurant</class>
+        <class>com.model.Booking</class>
+		<class>com.model.Customer</class>
+        <class>com.model.Timeslot</class>
+        <class>com.model.RestaurantTimeslot</class>
+     </persistence-unit>
+</persistence>
